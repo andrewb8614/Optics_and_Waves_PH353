@@ -7,4 +7,4 @@
 
 **Overview:** This repository houses some of my work done for my PH353 Optics & Waves class and lab. 
 
-**Plots:** I've written a couple plots (mostly **python**, some in **MATLAB**) to model certain problems/scenarios, such as the intensity of diffraction gratings of various geometries, a comparison of various order Fourier series to their original function, or the output intensity of an interferometric gravimeter (a Michelson interferometer with one of the mirrors moving under the influence of gravity). These can be found in the plots folder
+**Plots:** I've written a couple plots (mostly **python**, some in **MATLAB**) to model certain problems/scenarios, such as the intensity of diffraction gratings of various geometries, a comparison of a Fourier series to its original function as the number of terms increases, or the output intensity of an interferometric gravimeter (a Michelson interferometer with one of the mirrors moving under the influence of gravity). These can be found in the plots folder
