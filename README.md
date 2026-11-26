@@ -2,7 +2,7 @@
 
 <img width="416" height="422" alt="image" src="https://github.com/user-attachments/assets/503c99d9-71af-4dbe-b326-fbbf6cc663dd" />
 
->Pictured Above: Intensity of a Diffraction Grating in the Far-Field (Fraunhofer) Limit (Made with Python)
+>Pictured Above: Intensity of the Diffraction Grating of a grid of circular apertures in the Far-Field (Fraunhofer) Limit (Made with Python). Because EM fields oscillate too rapidly for even the most sensitive equipment to detect directly, the intensity is the physical quantity we measure. 
 
 
 **Overview:** This repository houses some of my work done for my PH353 Optics & Waves class and lab. 
