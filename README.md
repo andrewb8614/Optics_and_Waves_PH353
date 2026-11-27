@@ -13,4 +13,6 @@
 - The output intensity of an interferometric gravimeter (a Michelson interferometer with one of the mirrors moving under the influence of gravity).
 These can be found in the plots folder
 
+***Experiments & Reports:** Also included are some of my reports on the experiments I performed in this class. Give them a quick glance if you're interested.
+
 I will add more as I go. The 6 week EOM lab I may dedicate a separate repository to, but maybe not. We will see!
